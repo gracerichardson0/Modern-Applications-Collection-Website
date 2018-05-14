@@ -1,0 +1,55 @@
+#labContent{
+	width:86%;
+    height:80%;
+    border:1px solid black;
+    float:right;
+    padding-left: 20px;
+    padding-right:20px;
+    background-color:#CD8586;
+}
+#month{
+	width:700px;
+	height:50px;
+	background-color:lightblue;
+	border:1px solid black;
+	position: static;
+}
+#submitbutton{
+	text-align:center;
+	width:100%;
+	margin-top:2em;
+}
+
+#times{
+	display:block;
+}
+
+#daysOfTheWeek{
+	font-weight:bold;
+}
+
+table{
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	text-align: left;
+	margin-right:auto;
+	margin-left:auto;
+	background-color: powderblue;
+}
+table th{
+	border: 1px solid black;
+	padding:15px;
+
+}
+table tr td:empty{
+	padding:15px;
+	border:1px solid black;
+
+}
+table tr td{
+	padding:15px;
+	border:1px solid black;
+
+}
+h1{
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}

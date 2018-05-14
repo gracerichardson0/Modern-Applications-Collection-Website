@@ -1,0 +1,22 @@
+input[type=text]{
+	border:2px solid black;
+	background-color: lightblue;
+}
+
+
+
+form{
+	background:lightblue;
+	font-family: cursive;
+	opacity: 0.6%;
+}
+
+input[type=submit]:hover {
+    background-color: pink;
+    cursor: pointer;
+}
+
+#output{
+	background:powderblue;
+	font-family: cursive;
+}
